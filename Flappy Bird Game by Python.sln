@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Flappy Bird Game by Python", "Flappy Bird Game by Python\Flappy Bird Game by Python.pyproj", "{103D29DB-32A7-4904-BA0A-DB65628AD0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103D29DB-32A7-4904-BA0A-DB65628AD0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103D29DB-32A7-4904-BA0A-DB65628AD0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2AFBBF1-E95A-4980-8F7A-7BC25A220BA2}
+	EndGlobalSection
+EndGlobal
